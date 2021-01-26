@@ -1,0 +1,10 @@
+[{
+  "modid": "endertag",
+  "name": "EnderTag",
+  "description": "Enderman with name tag? No tp!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/kantraksel/EnderTag",
+  "updateUrl": "https://raw.githubusercontent.com/kantraksel/EnderTag/main/update/forge.json",
+  "authorList": ["Kantraksel"]
+}]
