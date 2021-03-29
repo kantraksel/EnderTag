@@ -14,3 +14,9 @@ If you encounter any difficulties in setting up the project, go to official tuto
 1. Open console with current directory set to mod directory
 2. Execute `gradlew build`
 3. Output files are located in CzikenMod/build/libs
+
+# Mod development for Spigot
+1. [Spigot docs](https://mcforge.readthedocs.io/en/1.12.x/gettingstarted/#from-zero-to-modding)
+2. Select *Creating a blank plugin* for your IDE
+3. Import files
+4. Build using your tools

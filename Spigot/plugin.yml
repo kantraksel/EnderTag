@@ -1,0 +1,6 @@
+name: EnderTag
+description: Enderman with name tag? No tp!
+author: Kantraksel
+main: pl.kantraksel.EnderTag
+version: 1.0
+api-version: 1.16
